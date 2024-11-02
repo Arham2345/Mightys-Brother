@@ -1,0 +1,3 @@
+script.js document.getElementById('download-link').onclick = function() {
+    alert('The app is not available yet. Stay tuned!');
+};
